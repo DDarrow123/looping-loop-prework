@@ -1,6 +1,6 @@
 def looping
   loop do
-    puts
+    puts ""
   end
 
 end
